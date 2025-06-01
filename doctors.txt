@@ -1,0 +1,8 @@
+
+[Udara Lakshan, 232323232323, 5000, 50, 06:00, 08:30, Wednesday, Neurology, 2]
+[Kasun Lakshitha, 123412341234, 3000, 70, 16:00, 20:00, Friday, ENT, 6]
+[Hasranga Weerasekara, 565656565656, 6000, 30, 20:00, 23:00, Sunday, VOG, 7]
+[Weerasinghe, 787878787878, 3500, 40, 18:00, 22:00, Thursday, VP, 8]
+[Imasha Rathnayake, 969696969696, 4500, 25, 15:00, 19:00, Saturday, Pediatrics, 4]
+[Ananda Rathnayake, 200012345678, 4500, 45, 18:00, 22:00, Tuesday, Psychiatry, 5]
+[gayan lakshitha, 123456781234, 3000, 30, 20:00, 22:00, Friday, Cardiology, 1]
